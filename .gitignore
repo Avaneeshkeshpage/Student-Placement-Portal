@@ -1,3 +1,7 @@
 *.class
 .vscode/
 lib/
+resumes/
+*.pdf
+*.doc
+*.docx

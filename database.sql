@@ -14,3 +14,6 @@ CREATE TABLE companies(
     company_name VARCHAR(100),
     min_cgpa DOUBLE
 );
+
+ALTER TABLE students
+ADD COLUMN resume_path VARCHAR(500);
