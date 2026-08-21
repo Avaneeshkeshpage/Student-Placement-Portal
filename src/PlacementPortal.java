@@ -13,7 +13,7 @@ public class PlacementPortal {
     static final String USER = "root";
 
     // Replace this with your MySQL password
-    static final String PASSWORD = "Avaneesh@123";
+    static final String PASSWORD = "YOUR_MYSQL_PASSWORD";
 
     static Scanner sc = new Scanner(System.in);
 
